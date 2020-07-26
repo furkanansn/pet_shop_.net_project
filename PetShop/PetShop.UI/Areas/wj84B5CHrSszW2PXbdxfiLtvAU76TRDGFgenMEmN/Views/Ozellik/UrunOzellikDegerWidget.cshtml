@@ -1,0 +1,17 @@
+﻿@model IEnumerable<PetShop.UI.Models.OzellikDeger>
+
+<div class="form-group has-warning">
+    <label class="col-lg-2 control-label">Özellik Değer:</label>
+    <br />
+    <br />
+    <div class="col-lg-10">
+        <select class="form-control m-bot15" name="OzellikDegerID">
+            @foreach (var deger in Model)
+            {
+                <option value="@deger.Id">@deger.Adi</option>
+            }
+        </select>
+    </div>
+</div>
+
+

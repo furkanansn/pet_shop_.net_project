@@ -1,0 +1,603 @@
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\PetShop.UI.dll.config
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\PetShop.UI.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\PetShop.UI.pdb
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\EntityFramework.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Webpages.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\EntityFramework.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Webpages.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CopyComplete
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\obj\Debug\PetShop.UI.dll
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\obj\Debug\PetShop.UI.pdb
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\obj\Debug\PetShop.UI.Migrations.InitialMigration.resources
+C:\Users\Dell\source\repos\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.GenerateResource.cache
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\PetShop.UI.dll.config
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\PetShop.UI.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\PetShop.UI.pdb
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\csc.exe
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\csc.exe.config
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\csc.rsp
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\csi.exe
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\csi.exe.config
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\csi.rsp
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.AppContext.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Console.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\vbc.exe
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\vbc.exe.config
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\vbc.rsp
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\EntityFramework.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Helpers.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Mvc.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Razor.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Webpages.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\EntityFramework.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Razor.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Webpages.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Helpers.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Mvc.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csprojAssemblyReference.cache
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\obj\Debug\PetShop.UI.Migrations.InitialMigration.resources
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.GenerateResource.cache
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CopyComplete
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\obj\Debug\PetShop.UI.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\obj\Debug\PetShop.UI.pdb
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Newtonsoft.Json.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Owin.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Http.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Http.Owin.dll
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\Newtonsoft.Json.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Http.xml
+C:\Users\batuh\Desktop\PetShop\PetShop.UI\bin\System.Web.Http.Owin.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.dll.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Owin.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.Owin.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.Owin.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.Migrations.InitialMigration.resources
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CopyComplete
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.pdb
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.dll.config
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.pdb
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.exe
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.exe.config
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.rsp
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.exe
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.exe.config
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.rsp
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.AppContext.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Console.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.exe
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.exe.config
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.rsp
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Newtonsoft.Json.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Owin.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Helpers.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.Owin.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Mvc.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Razor.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Newtonsoft.Json.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.Owin.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Razor.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Helpers.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Mvc.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.Migrations.InitialMigration.resources
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.GenerateResource.cache
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CoreCompileInputs.cache
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CopyComplete
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.dll
+C:\Users\eyyup\OneDrive\Masaüstü\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.dll.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\PetShop.UI.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Owin.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.Owin.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Http.Owin.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.Migrations.InitialMigration.resources
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CopyComplete
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.dll
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.pdb
+C:\Users\Dell\Desktop\PetShop (2)\PetShop\PetShop (2)\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\PetShop.UI.dll.config
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\PetShop.UI.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\PetShop.UI.pdb
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Owin.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Http.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Http.Owin.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Hosting.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Http.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Http.Owin.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\obj\Debug\PetShop.UI.Migrations.InitialMigration.resources
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\obj\Debug\PetShop.UI.csproj.CopyComplete
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\obj\Debug\PetShop.UI.dll
+C:\Users\Dell\Desktop\Yeni klasör\PetShop\PetShop.UI\obj\Debug\PetShop.UI.pdb

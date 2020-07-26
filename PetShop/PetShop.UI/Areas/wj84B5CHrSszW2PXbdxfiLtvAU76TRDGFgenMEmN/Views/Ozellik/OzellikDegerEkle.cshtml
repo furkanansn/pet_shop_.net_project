@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "Ozellik Deger Ekle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model IEnumerable<PetShop.UI.Models.OzellikTip>
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            <br />
+            <header class="panel-heading">
+                Özellik Değer  Ekle
+            </header>
+            <div class="panel-body">
+                <form role="form" action="/wj84B5CHrSszW2PXbdxfiLtvAU76TRDGFgenMEmN/Ozellik/OzellikDegerEkle/" enctype="multipart/form-data" method="post" class="form-horizontal tasi-form">
+                    <select class="form-control m-bot15" name="OzellikTipID">
+                        @foreach (var tip in Model)
+                        {
+                            <option value="@tip.Id">@tip.Adi</option>
+                        }
+                    </select>
+                    <div class="form-group has-success">
+                        <label class="col-lg-2 control-label">Özellik Değer Adı</label>
+                        <div class="col-lg-10">
+                            <input type="text" placeholder="" id="f-name" class="form-control" name="Adi">
+                            <p class="help-block">Successfully done</p>
+                        </div>
+                    </div>
+                    <div class="form-group has-error">
+                        <label class="col-lg-2 control-label">Açıklama</label>
+                        <div class="col-lg-10">
+                            <input type="text" placeholder="" id="l-name" class="form-control" name="Aciklama">
+                            <p class="help-block">Aha you gave a wrong info</p>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <div class="col-lg-offset-2 col-lg-10">
+                            <button class="btn btn-danger" type="submit">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </div>
+</div>
+

@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Ozellik Deger";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model IEnumerable<PetShop.UI.Models.OzellikDeger>
+
+<section class="panel">
+    <header class="panel-heading">
+        Özellik Değerleri
+    </header>
+    <div class="panel-body">
+        <div class="adv-table editable-table ">
+            <br />
+            <div class="clearfix">
+                <div class="btn-group">
+                    <a href="/wj84B5CHrSszW2PXbdxfiLtvAU76TRDGFgenMEmN/Ozellik/OzellikDegerEkle/" class="btn btn-default">
+                        Yeni Özellik Deger Ekle <i class="icon-plus"></i>
+                    </a>
+                </div>
+            </div>
+            <br />
+            <div class="space15"></div>
+            <table class="table table-striped table-hover table-bordered" id="editable-sample">
+                <thead>
+                    <tr>
+                        <th>Özellik Deger Adı</th>
+                        <th>Açıklama</th>
+                        <th>Özellik Tipi</th>
+                        <th>Güncelle</th>
+                        <th>Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   @foreach(var dgr in Model)
+                   {
+                    <tr class="">
+                        <td>@dgr.Adi</td>
+                        <td>@dgr.Aciklama</td>
+                        @if (dgr.OzellikTip != null)
+                        {
+                            <td>@dgr.OzellikTip.Adi</td>
+                        }
+                        <td>
+                            <a class="edit" href="/wj84B5CHrSszW2PXbdxfiLtvAU76TRDGFgenMEmN/Ozellik/OzellikDegerGuncelle/@dgr.Id">
+                                <i class="icon-pencil"></i>
+                            </a>
+                        </td>
+                        <td>
+                            <a class="delete" href="/wj84B5CHrSszW2PXbdxfiLtvAU76TRDGFgenMEmN/Ozellik/OzellikDegerSil/@dgr.Id">
+                                <i class="icon-trash"></i>
+                            </a>
+                        </td>
+                    </tr>
+                   }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+

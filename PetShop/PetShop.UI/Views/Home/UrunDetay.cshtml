@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "UrunDetay";
+    Layout = "~/Views/Shared/SiteLayout.cshtml";
+}
+
+@model PetShop.UI.Models.Urun
+
+
+
+@*product one olan kısmı buraya yapıştır*@
+
+
+@foreach (var item in Model.Resims)
+{
+    <li class="slide">
+        <img src="@item.OrtaYol" alt="@Model.Adi" />
+    </li>
+}
+
+@foreach (PetShop.UI.Models.OzellikTip tip in ViewBag.OzellikTipler)
+{
+    <span>@tip.Adi</span>
+    foreach (var item in tip.OzellikDegers)
+    {
+        @item.Adi
+    }
+}
